@@ -1,0 +1,10 @@
+G:\programyportfolio\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+G:\programyportfolio\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+G:\programyportfolio\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+G:\programyportfolio\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csprojAssemblyReference.cache
+G:\programyportfolio\Bubble Sort\Bubble Sort\obj\Debug\Bubble_Sort.MainWindow.resources
+G:\programyportfolio\Bubble Sort\Bubble Sort\obj\Debug\Bubble_Sort.Properties.Resources.resources
+G:\programyportfolio\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.GenerateResource.cache
+G:\programyportfolio\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+G:\programyportfolio\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.exe
+G:\programyportfolio\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.pdb
