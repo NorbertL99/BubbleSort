@@ -41,6 +41,7 @@
             this.numberThree = new System.Windows.Forms.Label();
             this.numberTwo = new System.Windows.Forms.Label();
             this.numberOne = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.upSidePanel.SuspendLayout();
             this.mainPanel.SuspendLayout();
             this.SuspendLayout();
@@ -69,6 +70,7 @@
             // mainPanel
             // 
             this.mainPanel.BackColor = System.Drawing.Color.Gray;
+            this.mainPanel.Controls.Add(this.label3);
             this.mainPanel.Controls.Add(this.label2);
             this.mainPanel.Controls.Add(this.delayTextBox);
             this.mainPanel.Controls.Add(this.sortButton);
@@ -196,6 +198,15 @@
             this.numberOne.TabIndex = 1;
             this.numberOne.Text = "N1";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(12, 303);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(342, 13);
+            this.label3.TabIndex = 14;
+            this.label3.Text = "Created by: Norbert Lubaszka     Contact: norbert.lubaszka@gmail.com";
+            // 
             // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -229,6 +240,7 @@
         private System.Windows.Forms.Label numberOne;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox delayTextBox;
+        private System.Windows.Forms.Label label3;
     }
 }
 
